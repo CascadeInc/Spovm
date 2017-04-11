@@ -1,0 +1,10 @@
+﻿  Main.cpp
+d:\labs_bsuir\spovm\lab3_queueprocesses\childprocess\childprocess\main.cpp(23): warning C4101: hProcess: неиспользованная локальная переменная
+d:\labs_bsuir\spovm\lab3_queueprocesses\childprocess\childprocess\main.cpp(99): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+d:\labs_bsuir\spovm\lab3_queueprocesses\childprocess\childprocess\main.cpp(109): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+d:\labs_bsuir\spovm\lab3_queueprocesses\childprocess\childprocess\main.cpp(115): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+  ChildProcess.vcxproj -> D:\LABS_BSUIR\SPOVM\Lab3_QueueProcesses\ChildProcess\Debug\ChildProcess.exe
+  ChildProcess.vcxproj -> D:\LABS_BSUIR\SPOVM\Lab3_QueueProcesses\ChildProcess\Debug\ChildProcess.pdb (Full PDB)

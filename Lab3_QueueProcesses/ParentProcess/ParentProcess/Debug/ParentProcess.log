@@ -1,0 +1,6 @@
+﻿  Main.cpp
+d:\labs_bsuir\spovm\lab3_queueprocesses\parentprocess\parentprocess\main.cpp(85): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+d:\labs_bsuir\spovm\lab3_queueprocesses\parentprocess\parentprocess\main.cpp(76): warning C4101: i: неиспользованная локальная переменная
+  ParentProcess.vcxproj -> D:\LABS_BSUIR\SPOVM\Lab3_QueueProcesses\ParentProcess\Debug\ParentProcess.exe
+  ParentProcess.vcxproj -> D:\LABS_BSUIR\SPOVM\Lab3_QueueProcesses\ParentProcess\Debug\ParentProcess.pdb (Full PDB)
