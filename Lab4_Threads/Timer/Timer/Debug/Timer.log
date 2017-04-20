@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\labs_bsuir\spovm\lab4_threads\timer\timer\main.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+  Timer.vcxproj -> D:\LABS_BSUIR\SPOVM\Lab4_Threads\Timer\Debug\Timer.exe
+  Timer.vcxproj -> D:\LABS_BSUIR\SPOVM\Lab4_Threads\Timer\Debug\Timer.pdb (Full PDB)

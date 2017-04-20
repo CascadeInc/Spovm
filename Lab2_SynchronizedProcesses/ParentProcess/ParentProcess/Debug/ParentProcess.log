@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\labs_bsuir\spovm\lab2_synchronizedprocesses\parentprocess\parentprocess\main.cpp(73): warning C4101: i: неиспользованная локальная переменная
+  ParentProcess.vcxproj -> D:\LABS_BSUIR\SPOVM\Lab2_SynchronizedProcesses\ParentProcess\Debug\ParentProcess.exe
+  ParentProcess.vcxproj -> D:\LABS_BSUIR\SPOVM\Lab2_SynchronizedProcesses\ParentProcess\Debug\ParentProcess.pdb (Full PDB)

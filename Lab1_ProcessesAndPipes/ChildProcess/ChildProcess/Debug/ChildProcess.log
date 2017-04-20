@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\labs_bsuir\spovm\lab1_processesandpipes\childprocess\childprocess\main.cpp(16): warning C4101: i: неиспользованная локальная переменная
+  ChildProcess.vcxproj -> D:\LABS_BSUIR\SPOVM\Lab1_ProcessesAndPipes\ChildProcess\Debug\ChildProcess.exe
+  ChildProcess.vcxproj -> D:\LABS_BSUIR\SPOVM\Lab1_ProcessesAndPipes\ChildProcess\Debug\ChildProcess.pdb (Full PDB)

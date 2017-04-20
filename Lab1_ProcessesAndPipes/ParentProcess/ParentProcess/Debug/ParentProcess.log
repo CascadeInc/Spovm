@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\labs_bsuir\spovm\lab1_processesandpipes\parentprocess\parentprocess\main.cpp(117): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs_bsuir\spovm\lab1_processesandpipes\parentprocess\parentprocess\main.cpp(68): warning C4101: fConnected: неиспользованная локальная переменная
+  ParentProcess.vcxproj -> D:\LABS_BSUIR\SPOVM\Lab1_ProcessesAndPipes\ParentProcess\Debug\ParentProcess.exe
+  ParentProcess.vcxproj -> D:\LABS_BSUIR\SPOVM\Lab1_ProcessesAndPipes\ParentProcess\Debug\ParentProcess.pdb (Full PDB)
