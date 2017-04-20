@@ -1,0 +1,6 @@
+﻿  Main.cpp
+d:\labs_bsuir\spovm\lab4_threads\actionthreads\actionthreads\main.cpp(55): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs_bsuir\spovm\lab4_threads\actionthreads\actionthreads\main.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs_bsuir\spovm\lab4_threads\actionthreads\actionthreads\main.cpp(93): warning C4018: <: несоответствие типов со знаком и без знака
+  ActionThreads.vcxproj -> D:\LABS_BSUIR\SPOVM\Lab4_Threads\ActionThreads\Debug\ActionThreads.exe
+  ActionThreads.vcxproj -> D:\LABS_BSUIR\SPOVM\Lab4_Threads\ActionThreads\Debug\ActionThreads.pdb (Full PDB)
